@@ -1,6 +1,6 @@
-- 👋 Hi, I’m @SaiPraveen
-- 👀 I’m interested in web development
-- 🌱 I’m currently learning php, python
+- 👋 Hi, I’m @SaiPraveen 🤖
+- 👀 a web developer 👨🏻‍💻
+- 🌱 I’m currently learning php and python
 - 📫 Reach me on @chsai.p13@gmail.com
 - My site https://apptest.pw/saipraveen 
 
