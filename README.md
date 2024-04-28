@@ -1,11 +1,15 @@
-- 👋 Hi, I’m @SaiPraveen 🤖
-- 👀 a web developer 👨🏻‍💻
-- 🌱 I’m currently learning php and python
-- 📫 Reach me on @chsai.p13@gmail.com
-- 🌍 https://apptest.pw/saipraveen
-- 👨🏻‍💻 GitHub site: https://saip13.github.io
+<p align="center">
+  <img src="https://saipraveen.in/images/web_developement.gif" alt="Banner Image">
+</p>
 
-<!---
-SaiP13/SaiP13 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+### 👋 Hi, I’m Sai Praveen 🤖
+
+- 👀 A Web Developer 👨🏻‍💻
+- 🌱 I’m currently working on Laravel 👨‍💻
+
+### 📫 Reach me on:
+
+- Email 👨🏻‍💻   : [chsai.p13@gmail.com](mailto:chsai.p13@gmail.com)
+- Website 🌍 : [www.saipraveen.in](https://saipraveen.in)
+
+### HAPPY CODING 😎
